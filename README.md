@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wakdman
-- 👀 I’m interested in NFT, Blockchain and Photography
+- 👀 I’m interested in AR, VR, NFT, Blockchain and Photography
 - 🌱 I’m currently learning Node.js 
 - 💞️ I’m looking to collaborate on Blockchain and dapps and web3
 - 📫 How to reach me ...
